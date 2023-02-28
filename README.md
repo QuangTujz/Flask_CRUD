@@ -1,4 +1,3 @@
-"Flask_CRUD"
+# Flask_CRUD
 
-Enable Virtual Enviroment to run project
-"""python
+## Init
